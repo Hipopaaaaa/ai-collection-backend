@@ -1,0 +1,16 @@
+server:
+  port: 8121
+
+
+spark:
+  appId: 668c00ce
+  apiKey: 6920d5f9133ad544afb4427ddb0f237b
+  apiSecret: NjE5N2UwYjM1MmY2OTlkZTM2M2QzYzIz
+  host: spark-api.xf-yun.com
+  path: /v3.1/chat
+  domain: generalv3
+
+qianfan:
+  apiKey: UgEq75WOGq5khnw7ijh5WIEP
+  apiSecret: m0tcYdcTf0HamPm3cFIsyVEQTFdFbmUV
+  path: yi_34b_chat
